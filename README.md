@@ -13,3 +13,7 @@ drag and drop pct files to convert them to tga it will save them to project\reso
 ## copy to local
 
 place in client_pc\root and Just double click it to use
+
+## td creator
+
+drag and drop an image onto it to create a basic td and td.resource for all main texture types (base,nm,spec,em,_a,cc)
